@@ -50,7 +50,7 @@ class TaskManager:
             print("No tasks available.\n")
             return
 
-        print("\nYour Tasks:")
+        # print("\nYour Tasks:")
 
         # Display all tasks with numbering
         for i, task in enumerate(self.tasks, start=1):
