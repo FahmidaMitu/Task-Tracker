@@ -1,0 +1,12 @@
+[
+    {
+        "title": "Study Python",
+        "description": "Finish basics",
+        "completed": false
+    },
+    {
+        "title": "Do Homework",
+        "description": "Math chapter",
+        "completed": true
+    }
+]
