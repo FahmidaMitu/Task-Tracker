@@ -50,8 +50,6 @@ class TaskManager:
             print("No tasks available.\n")
             return
 
-        # print("\nYour Tasks:")
-
         # Display all tasks with numbering
         for i, task in enumerate(self.tasks, start=1):
             status = "Completed" if task["completed"] else "Not Completed"
